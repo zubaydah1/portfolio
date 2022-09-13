@@ -68,13 +68,13 @@ article {
 	overflow: hidden;
 }
 #home-section section {
-	padding: 15% 10%;
+	padding: 20% 4%;
 }
 #home-section section h1 {
 	font-size: 30px;
 }
 #home-section section .name {
-	font-size: 100px;
+	font-size: 4rem;
 }
 .frontend {
 	color: rgb(15, 179, 56);
@@ -183,7 +183,7 @@ article {
 	margin-bottom: 20px;
 }
 #about-section > div > p {
-	font-size: 26px;
+	font-size: 23px;
 	text-align: justify;
 }
 .cv {
